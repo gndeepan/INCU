@@ -10,9 +10,9 @@ APK Folder
      <td>Main Screen Page</td>
   </tr>
   <tr>
-     <td><img src="pics/stud.jpeg" width=270 height=480></td>
-    <td><img src="pics/stud.jpeg" width=270 height=480></td>
-    <td><img src="pics/main.jpeg" width=270 height=480></td>
+     <td><img src="pics/login.jpg" width=270 height=480></td>
+    <td><img src="pics/stud.jpg" width=270 height=480></td>
+    <td><img src="pics/main.jpg" width=270 height=480></td>
   </tr>
  </table>
  <table>
@@ -22,9 +22,9 @@ APK Folder
         <td>Staff Screen Page</td>
   </tr>
   <tr>
-     <td><img src="pics/study.jpeg" width=270 height=480></td>
-    <td><img src="pics/chat.jpeg" width=270 height=480></td>
-    <td><img src="pics/staff.jpeg" width=270 height=480></td>
+     <td><img src="pics/study.jpg" width=270 height=480></td>
+    <td><img src="pics/chat.jpg" width=270 height=480></td>
+    <td><img src="pics/staff.jpg" width=270 height=480></td>
   </tr>
  </table>
  
