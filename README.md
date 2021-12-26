@@ -10,7 +10,7 @@ APK Folder
      <td>Main Screen Page</td>
   </tr>
   <tr>
-     <td><img src="pics/splash.jpeg" width=270 height=480></td>
+     <td><img src="pics/stud.jpeg" width=270 height=480></td>
     <td><img src="pics/stud.jpeg" width=270 height=480></td>
     <td><img src="pics/main.jpeg" width=270 height=480></td>
   </tr>
